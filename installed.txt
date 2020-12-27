@@ -1,0 +1,11 @@
+Referencer
+com.aurimasniekis.phppsr4namespacedetector
+com.funivan.idea.phpClean
+com.github.ArtsiomCh.NestedBracketsColorer
+com.mallowigi
+com.vecheslav.darculaDarkerTheme
+com.vincentp.gruvbox-theme
+de.espend.idea.php.annotation
+de.espend.idea.php.toolbox
+net.antelle.intellij-xcode-dark-theme
+net.king2500.plugins.PhpAdvancedAutoComplete
